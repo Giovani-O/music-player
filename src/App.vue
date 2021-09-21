@@ -100,6 +100,12 @@ export default {
           src: require('./assets/wolfprincess.mp3'),
           imgSrc: require('./assets/celtic.jpg')
         },
+        {
+          title: 'Concert in A minor - RV365',
+          artist: 'Antonio Vivaldi',
+          src: require('./assets/rv365.mp3'),
+          imgSrc: require('./assets/vivaldi.jpg')
+        },
       ],
       player: new Audio(),
     }
