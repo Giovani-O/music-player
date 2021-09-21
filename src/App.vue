@@ -100,12 +100,6 @@ export default {
           src: require('./assets/wolfprincess.mp3'),
           imgSrc: require('./assets/celtic.jpg')
         },
-        {
-          title: 'Ar Soudarded',
-          artist: 'Folk',
-          src: require('./assets/arsoudarded.mp3'),
-          imgSrc: require('./assets/celtic.jpg')
-        }
       ],
       player: new Audio(),
     }
